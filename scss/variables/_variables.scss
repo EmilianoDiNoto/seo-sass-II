@@ -1,0 +1,27 @@
+$naranja: #FF6B33;
+$blanco: #FFFFFF;
+$negro: #000000;
+$azure: #f0ffff;
+
+$borde-box:border-box;
+$ancho: 400px;
+$color_fondo: orangered;
+$el_padding: 30px;
+$el_margin: auto;
+$el_margin_top: 100px;
+$el_borde_radiado: 14px;
+
+$size: 22px;
+$margin_abajo: 20px;
+.form-registro{
+    box-sizing: border-box;
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 14px;
+    .form-registro h4{
+        font-size: 22px;
+        margin-bottom: 20px;
+                }
+}

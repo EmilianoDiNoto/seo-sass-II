@@ -1,0 +1,51 @@
+// En este scss decidí poner las cosas que no estaban anidadas y afectaban a todos los html //
+
+* {
+    margin: 0 auto;
+}
+body{
+    background-color: gray !important;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(15, 14, 14);
+}
+.subtitulo{
+    text-align: center;
+}
+img{
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20px 20px 0px 0px;
+    width: auto;
+    height: auto;
+    max-width: 350px;
+    max-height: 350px;
+    margin-left: 60px;
+}
+
+button{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h3{
+    color: rgb(12, 14, 14);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+}
+span{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid-hijo{
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    width: 100%;
+    background-color: azure;
+    border-radius: 20px;
+}

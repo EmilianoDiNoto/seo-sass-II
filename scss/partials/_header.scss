@@ -1,0 +1,32 @@
+$naranja: #FF6B33;
+$blanco: #FFFFFF;
+
+header{
+    display: flex;
+    text-transform: uppercase;
+    justify-content: space-between;
+    background-color: $naranja;
+    nav{
+        display: flex;
+        flex-direction: row;
+        font-family: 'Nunito', sans-serif;
+        a{
+        text-decoration: none;
+        color: $blanco; 
+            ul{
+                display: flex;
+                flex-direction: row;
+            }
+        }
+    }
+}
+.nav-link{
+    color: white;
+        &:hover{
+        color: blueviolet !important;
+                .navbar-light{
+                background-color: $naranja;
+                color: $blanco;
+        } 
+    }
+}

@@ -1,0 +1,9 @@
+@import "../variables/variables";
+@import "../sass2/extend";
+
+.form-registro{
+    @extend .form-registro;
+}
+h4{
+    @extend h4;
+}

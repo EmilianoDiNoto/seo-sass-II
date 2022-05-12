@@ -1,0 +1,15 @@
+@import "../variables/variables";
+
+.form-registro{
+    box-sizing: $borde-box;
+    width: $ancho;
+    background-color: $color_fondo;
+    padding: $el_padding; 
+    margin: $el_margin;
+    margin-top: $el_margin_top;
+    border-radius: $el_borde_radiado;
+}
+h4{
+    font-size: $size;
+    margin-bottom: $margin_abajo;
+}
