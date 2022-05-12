@@ -1,0 +1,18 @@
+Emiliano Di Noto comisión 36915
+
+En el Index de mi sitio web agregue las siguientes características de SEO:
+
+1) Description: Usé la etiqueta meta name description y agregué una simple y completa descripción del contenido de mi sitio web. 
+Cito textualmente: 
+“En este sitio web, se encuentra un ecommerce de productos de tecnología y electrodomésticos, 
+que se enfoca principalmente en productos de computadora y gaming. 
+Se encuentran desde periféricos simples como el mouse hasta placas de video de última generación.”
+
+2) Keywords: Usé la etiqueta meta name keywords en donde pondría las palabras clave de mi sitio web: estas son:
+“GPU,PROCESADOR,COMPUTADORA,PC GAMER,OFICINA,WINDOWS,MOUSE,ELECTRODOMÉSTICO,TECONOLOGÍA”.
+
+3) Encabezados: 
+- El h1 de mi sitio dice “LO ÚLTIMO EN TECNOLOGÍA”
+- El h2 varía dependiendo de la página. En el index pone “Todos nuestros productos”, en la página de procesadores “Todos nuestros procesadores”, En el sector de GPUs pone “Todas nuestras placas de video” y en la página de electrodomésticos dice “Todos nuestros electrodomésticos”.
+- Los h3 de mi sitio poseen la información de los productos que se venden en cada página del mismo
+- El único h4 de mi sitio se encuentra en la página de contacto y pone “Contáctanos”.
